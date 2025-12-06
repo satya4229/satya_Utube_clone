@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # youtubeclone
 Youtube Clone using HTMl, CSS, JS, Bootstrap
 .
@@ -15,3 +16,6 @@ Go Live - https://harshk8853.github.io/youtubeclone/
 .
 .
 Official Website - https://www.aslicecode.com/
+=======
+# satya_Utube_clone
+>>>>>>> fcb049a8bd38c409d8a0b753b4fe59d72c9b9ea4
